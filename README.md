@@ -6,8 +6,9 @@ chmod +x ./touchpad.sh
 sudo nano /etc/rc.local
 
   quedara asi
+  ---------------------------------------------------------------------
  
- #!/bin/sh -e
+#!/bin/sh -e
 #
 # rc.local
 #
@@ -21,5 +22,5 @@ sudo nano /etc/rc.local
 # By default this script does nothing.
 sh /home/usuario/touchpad.sh
 exit 0
-
+----------------------------------------------------------------------------
 guardan cambios y listo \:v/
